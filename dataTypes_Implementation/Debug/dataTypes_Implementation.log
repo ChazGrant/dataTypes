@@ -1,0 +1,14 @@
+﻿  linkedList.c
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(37): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(52): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(69): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(87): warning C4047: return: "int" отличается по уровням косвенного обращения от "void *"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(91): warning C4047: return: "int" отличается по уровням косвенного обращения от "void *"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(136): warning C4047: функция: "Node *" отличается по уровням косвенного обращения от "Node **"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(136): warning C4024: getNth: различные типы для формального и фактического параметров 1
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(177): warning C4047: функция: "Node *" отличается по уровням косвенного обращения от "const Node **"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(177): warning C4024: length: различные типы для формального и фактического параметров 1
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(184): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int"
+c:\users\ilya\documents\visual studio 2015\projects\datatypes_implementation\datatypes_implementation\linkedlist.c(228): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  dataTypes_Implementation.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2015\Projects\dataTypes_Implementation\Debug\dataTypes_Implementation.exe
+  dataTypes_Implementation.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2015\Projects\dataTypes_Implementation\Debug\dataTypes_Implementation.pdb (Partial PDB)
